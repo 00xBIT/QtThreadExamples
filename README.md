@@ -1,3 +1,9 @@
+### ConcurrentAndFutures
+
+Source: github.com/PacktPublishing/Hands-On-High-performance-with-QT/tree/master/Chapter%205/ConcurrentAndFutures
+
+[About QFutureInterface](learning.oreilly.com/library/view/hands-on-high-performance/9781789531244/8fda26ad-3a05-45b7-8b46-c89ab5508cfc.xhtml)
+
 ### QtConcurrentQProgressDialog
 The example about QtConcurrent.
 
