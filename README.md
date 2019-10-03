@@ -4,6 +4,11 @@ Source: https://github.com/PacktPublishing/Hands-On-High-performance-with-QT/tre
 
 [About QFutureInterface](https://learning.oreilly.com/library/view/hands-on-high-performance/9781789531244/8fda26ad-3a05-45b7-8b46-c89ab5508cfc.xhtml)
 
+### QtConcurrentQProgressDialog-QtExample
+Official Qt example about QtConcurrent from.
+
+Source: https://doc-snapshots.qt.io/qt5-5.12/qtconcurrent-progressdialog-example.html
+
 ### QtConcurrentQProgressDialog
 The example about QtConcurrent.
 
